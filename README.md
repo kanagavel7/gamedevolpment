@@ -52,7 +52,8 @@
 
 ## OUTPUT:
 
-<img width="1587" height="2245" alt="SAVEETHA ENGINEERING COLLEGE" src="https://github.com/user-attachments/assets/6a35d8b9-26a9-4d4b-8dff-d39228046486" />
+<img width="1587" height="2245" alt="Apps and platforms enable better communication, assignment tracking, and real time feedback" src="https://github.com/user-attachments/assets/865be01d-4361-4aec-b5a7-a8ac6a92edbd" />
+
 
 ## RESULT:
 
